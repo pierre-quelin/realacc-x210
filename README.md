@@ -6,6 +6,7 @@
 * CameraHolder (RunCam Micro Swift 2)
 * GPSHolder (Beitian BN-180)
 * ReceiverHolder (FrSky XSR)
+* CapacitorSupport
 
 ## Set of parts to buy
 * Realacc X210 V+ 214mm 6K Carbon Fiber FPV Racing Frame 4mm Frame Arm w/ LED Board 5V & 12V PDB
@@ -18,4 +19,5 @@
 * RunCam Micro Swift 2 Camera
 * Giant Power DINOGY MEGA GRAPHENE 2.0 1550mAh 14.8V 75C
 * 220mm Battery Tie Down Strap
+* 35V 1000uF Low ESR Electrolytic Capacitor 13 x 22mm
 
