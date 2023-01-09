@@ -21,3 +21,6 @@
 * Giant Power DINOGY MEGA GRAPHENE 2.0 1550mAh 14.8V 75C
 * 220mm Battery Tie Down Strap
 * 35V 1000uF Low ESR Electrolytic Capacitor 13 x 22mm
+
+## The result ;-)
+<img src="https://github.com/pierre-quelin/realacc-x210/blob/master/realacc-x210.jpg" width="700">
